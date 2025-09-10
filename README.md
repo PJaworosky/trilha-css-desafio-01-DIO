@@ -1,7 +1,19 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto é uma Landing Page construída com HTML e CSS, criada como parte do desafio da trilha de CSS da DIO.
+
+As principais técnicas de estilização aplicadas foram:
+
+Layout Flexbox: Utilizado para organizar e alinhar os elementos da página de forma responsiva.
+
+Gradientes de Cor: Propriedades como linear-gradient foram usadas para criar transições de cor no fundo do banner e nos títulos, adicionando um visual moderno.
+
+Gradiente em Texto (background-clip: text): Uma técnica avançada para aplicar o efeito de gradiente diretamente no texto, tornando os títulos mais dinâmicos.
+
+Sombras e Efeitos Visuais (box-shadow e text-shadow): Adicionados para dar profundidade aos elementos, como cards e textos, e destacá-los do fundo.
+
+Transições e Interatividade (hover e transition): Implementadas para criar microinterações, como o "efeito de salto" nos botões e nos cards ao passar o mouse, melhorando a experiência do usuário
+
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
